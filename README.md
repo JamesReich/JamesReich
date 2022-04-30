@@ -9,7 +9,7 @@ Currently work as an expert production Artist and in the process of changing fie
 * 🌍  I'm based in Reno
 * ✉️  You can contact me at [james@jreich.dev](mailto:james@jreich.dev)
 * 🚀  I'm currently working on [grubbr](http://grubbr.app)
-* 🧠  I'm learning I'm learning JS/Node/React/Ruby/PHP
+* 🧠  I'm learning JS/Node/React/Ruby/PHP
 
 <a href="https://www.twitter.com/jgreich_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jgreich_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
