@@ -1,7 +1,7 @@
 Hi 👋 My name is James Reich
 ============================
 
-Wed Developer and Graphic Artist
+Web Developer and Graphic Artist
 --------------------------------
 
 Currently work as an expert production artist and aspiring developer. I have an interest in front-end web development but I’m also interested in full-stack development, I love building on both sides of the browser!
