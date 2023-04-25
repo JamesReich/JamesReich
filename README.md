@@ -8,8 +8,7 @@ Currently work as an expert production artist and aspiring developer. I have an 
 
 * 🌍  I'm based in Reno
 * ✉️  You can contact me at [james@jreich.dev](mailto:james@jreich.dev)
-* 🚀  I'm currently working on [grubbr](http://grubbr.app)
-* 🧠  I'm learning JS/Node/React/Ruby/PHP
+* 🚀  I'm currently working on [Cloak](https://cloak.chat)
 
 <a href="https://www.twitter.com/jgreich_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jgreich_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
