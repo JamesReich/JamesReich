@@ -1,4 +1,4 @@
-<h">Hi 👋, I'm James Reich</h1>
+<h1>Hi 👋, I'm James Reich</h1>
 
 <h3>Web Developer and Graphic Artist</h3>
 
