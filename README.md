@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm James Reich</h1>
-===================================================
-<h3 align="center">Web Developer and Graphic Artist</h3>
+<h">Hi 👋, I'm James Reich</h1>
+
+<h3>Web Developer and Graphic Artist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesreich&label=Profile%20views&color=0e75b6&style=flat" alt="jamesreich" /> </p>
 
