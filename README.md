@@ -4,8 +4,6 @@ Hi 👋 My name is James Reich
 Web Developer and Graphic Artist
 --------------------------------
 
-Currently work as an expert production artist and aspiring developer. I have an interest in front-end web development but I’m also interested in full-stack development, I love building on both sides of the browser!
-
 * 🌍  I'm based in Reno
 * ✉️  You can contact me at [james@jreich.dev](mailto:james@jreich.dev)
 * 🚀  I'm currently working on [Cloak](https://cloak.chat)
